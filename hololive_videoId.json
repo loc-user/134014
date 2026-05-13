@@ -1,97 +1,64 @@
 [
-// === JP Gen 0 ===
-{"number":1,"name":"@tokinosora 時乃空","videoId":"https://www.youtube.com/@tokinosora/live"},
-{"number":2,"name":"@RobocoChannel 蘿蔔子","videoId":"https://www.youtube.com/@RobocoChannel/live"},
-{"number":3,"name":"@HoshimachiSuisei 星街彗星","videoId":"https://www.youtube.com/@HoshimachiSuisei/live"},
-{"number":4,"name":"@SakuraMiko 櫻巫女","videoId":"https://www.youtube.com/@SakuraMiko/live"},
-{"number":5,"name":"@AZKi AZKi","videoId":"https://www.youtube.com/@AZKi/live"},
-
-// === JP Gen 1 ===
-{"number":6,"name":"@ShirakamiFubuki 白上吹雪","videoId":"https://www.youtube.com/@ShirakamiFubuki/live"},
-{"number":7,"name":"@AkiRosenthal 亞綺·羅森塔爾","videoId":"https://www.youtube.com/@AkiRosenthal/live"},
-{"number":8,"name":"@NatsuiroMatsuri 夏色祭","videoId":"https://www.youtube.com/@NatsuiroMatsuri/live"},
-{"number":9,"name":"@akaihaato 赤井心","videoId":"https://www.youtube.com/@akaihaato/live"},
-
-// === JP Gen 2 ===
-{"number":10,"name":"@NakiriAyame 百鬼綾目","videoId":"https://www.youtube.com/@NakiriAyame/live"},
-{"number":11,"name":"@YuzukiChoco 癒月巧可","videoId":"https://www.youtube.com/@YuzukiChoco/live"},
-{"number":12,"name":"@OozoraSubaru 大空昴","videoId":"https://www.youtube.com/@OozoraSubaru/live"},
-
-// === JP GAMERS ===
-{"number":13,"name":"@OokamiMio 大神澪","videoId":"https://www.youtube.com/@OokamiMio/live"},
-{"number":14,"name":"@NekomataOkayu 貓又小粥","videoId":"https://www.youtube.com/@NekomataOkayu/live"},
-{"number":15,"name":"@InugamiKorone 戌神沁音","videoId":"https://www.youtube.com/@InugamiKorone/live"},
-
-// === JP Gen 3 ===
-{"number":16,"name":"@UsadaPekora 兔田佩克拉","videoId":"https://www.youtube.com/@UsadaPekora/live"},
-{"number":17,"name":"@ShiranuiFlare 不知火芙蕾雅","videoId":"https://www.youtube.com/@ShiranuiFlare/live"},
-{"number":18,"name":"@ShiroganeNoel 白銀諾艾爾","videoId":"https://www.youtube.com/@ShiroganeNoel/live"},
-{"number":19,"name":"@HoushouMarine 寶鐘瑪琳","videoId":"https://www.youtube.com/@HoushouMarine/live"},
-
-// === JP Gen 4 ===
-{"number":20,"name":"@TsunomakiWatame 角卷綿芽","videoId":"https://www.youtube.com/@TsunomakiWatame/live"},
-{"number":21,"name":"@TokoyamiTowa 常闇東瓦","videoId":"https://www.youtube.com/@TokoyamiTowa/live"},
-{"number":22,"name":"@HimemoriLuna 姬森瑠娜","videoId":"https://www.youtube.com/@HimemoriLuna/live"},
-
-// === JP Gen 5 ===
-{"number":23,"name":"@YukihanaLamy 雪花拉米","videoId":"https://www.youtube.com/@YukihanaLamy/live"},
-{"number":24,"name":"@MomosuzuNene 百鈴奈奈","videoId":"https://www.youtube.com/@MomosuzuNene/live"},
-{"number":25,"name":"@ShishiroBotan 獅白牡丹","videoId":"https://www.youtube.com/@ShishiroBotan/live"},
-{"number":26,"name":"@OmaruPolka 尾丸波爾卡","videoId":"https://www.youtube.com/@OmaruPolka/live"},
-
-// === JP holoX ===
-{"number":27,"name":"@LaDarknesss 拉普拉斯·達克尼斯","videoId":"https://www.youtube.com/@LaDarknesss/live"},
-{"number":28,"name":"@TakaneLui 鷹嶺琉依","videoId":"https://www.youtube.com/@TakaneLui/live"},
-{"number":29,"name":"@HakuiKoyori 博衣可依","videoId":"https://www.youtube.com/@HakuiKoyori/live"},
-{"number":30,"name":"@KazamaIroha 風真伊呂波","videoId":"https://www.youtube.com/@KazamaIroha/live"},
-
-// === DEV_IS ReGLOSS ===
-{"number":31,"name":"@OtonoseKanade 音乃瀨奏","videoId":"https://www.youtube.com/@OtonoseKanade/live"},
-{"number":32,"name":"@IchijouRirika 一條莉莉卡","videoId":"https://www.youtube.com/@IchijouRirika/live"},
-{"number":33,"name":"@JuufuuteiRaden 儒烏風亭雷電","videoId":"https://www.youtube.com/@JuufuuteiRaden/live"},
-{"number":34,"name":"@TodorokiHajime 轟一","videoId":"https://www.youtube.com/@TodorokiHajime/live"},
-
-// === DEV_IS FLOW GLOW ===
-{"number":35,"name":"@IsakiRiona 伊咲莉音","videoId":"https://www.youtube.com/@IsakiRiona/live"},
-{"number":36,"name":"@KoganeiNiko 古賀音仁子","videoId":"https://www.youtube.com/@KoganeiNiko/live"},
-{"number":37,"name":"@MizumiyaSu 水宮朱","videoId":"https://www.youtube.com/@MizumiyaSu/live"},
-{"number":38,"name":"@RindoChihaya 林檎千隼","videoId":"https://www.youtube.com/@RindoChihaya/live"},
-{"number":39,"name":"@KikiraraVivi 菊良々緋々","videoId":"https://www.youtube.com/@KikiraraVivi/live"},
-
-// === ID Gen 1 ===
-{"number":40,"name":"@AyundaRisu 阿尤達·里蘇","videoId":"https://www.youtube.com/@AyundaRisu/live"},
-{"number":41,"name":"@MoonaHoshinova 穆娜·霍緒諾娃","videoId":"https://www.youtube.com/@MoonaHoshinova/live"},
-{"number":42,"name":"@airaniiofi 阿伊拉妮·依歐菲","videoId":"https://www.youtube.com/@airaniiofi/live"},
-
-// === ID Gen 2 ===
-{"number":43,"name":"@KureijiOllie 克雷依姬·歐莉","videoId":"https://www.youtube.com/@KureijiOllie/live"},
-{"number":44,"name":"@AnyaMelfissa 安亞·梅菲莎","videoId":"https://www.youtube.com/@AnyaMelfissa/live"},
-{"number":45,"name":"@PavoliaReine 帕沃莉亞·蕾內","videoId":"https://www.youtube.com/@PavoliaReine/live"},
-
-// === ID Gen 3 ===
-{"number":46,"name":"@VestiaZeta 維斯提亞·澤塔","videoId":"https://www.youtube.com/@VestiaZeta/live"},
-{"number":47,"name":"@KaelaKovalskia 卡埃拉·科瓦爾斯基亞","videoId":"https://www.youtube.com/@KaelaKovalskia/live"},
-{"number":48,"name":"@KoboKanaeru 可波·卡娜埃露","videoId":"https://www.youtube.com/@KoboKanaeru/live"},
-
-// === EN Myth ===
-{"number":49,"name":"@MoriCalliope 森美聲","videoId":"https://www.youtube.com/@MoriCalliope/live"},
-{"number":50,"name":"@TakanashiKiara 小鳥遊琪亞拉","videoId":"https://www.youtube.com/@TakanashiKiara/live"},
-{"number":51,"name":"@NinomaeInanis 一伊那爾栖","videoId":"https://www.youtube.com/@NinomaeInanis/live"},
-
-// === EN Promise ===
-{"number":52,"name":"@IRyS 埃莉絲","videoId":"https://www.youtube.com/@IRyS/live"},
-{"number":53,"name":"@HakosBaelz 哈珂斯·貝爾絲","videoId":"https://www.youtube.com/@HakosBaelz/live"},
-{"number":54,"name":"@OuroKronii 奧羅·克洛尼","videoId":"https://www.youtube.com/@OuroKronii/live"},
-
-// === EN Advent ===
-{"number":55,"name":"@ShioriNovella 詩織·諾薇拉","videoId":"https://www.youtube.com/@ShioriNovella/live"},
-{"number":56,"name":"@KosekiBijou 古石碧珠","videoId":"https://www.youtube.com/@KosekiBijou/live"},
-{"number":57,"name":"@NerissaRavencroft 納瑞莎·雷文克羅夫特","videoId":"https://www.youtube.com/@NerissaRavencroft/live"},
-{"number":58,"name":"@FUWAMOCO 軟軟&茸茸","videoId":"https://www.youtube.com/@FUWAMOCO/live"},
-
-// === EN Justice ===
-{"number":59,"name":"@ElizabethRoseBloodflame 伊麗莎白·露絲·布拉德弗雷姆","videoId":"https://www.youtube.com/@ElizabethRoseBloodflame/live"},
-{"number":60,"name":"@GigiMurin 琪琪·沐林","videoId":"https://www.youtube.com/@GigiMurin/live"},
-{"number":61,"name":"@CeciliaImmergreen 塞西莉亞·伊默格林","videoId":"https://www.youtube.com/@CeciliaImmergreen/live"},
-{"number":62,"name":"@RaoraPanthera 拉歐拉·潘特拉","videoId":"https://www.youtube.com/@RaoraPanthera/live"}
+    { "number": 1, "name": "@tokinosora 時乃空", "liveUrl": "@tokinosora/live" },
+    { "number": 2, "name": "@RobocoChannel 蘿蔔子", "liveUrl": "@RobocoChannel/live" },
+    { "number": 3, "name": "@HoshimachiSuisei 星街彗星", "liveUrl": "@HoshimachiSuisei/live" },
+    { "number": 4, "name": "@SakuraMiko 櫻巫女", "liveUrl": "@SakuraMiko/live" },
+    { "number": 5, "name": "@AZKi AZKi", "liveUrl": "@AZKi/live" },
+    { "number": 6, "name": "@ShirakamiFubuki 白上吹雪", "liveUrl": "@ShirakamiFubuki/live" },
+    { "number": 7, "name": "@AkiRosenthal 亞綺·羅森塔爾", "liveUrl": "@AkiRosenthal/live" },
+    { "number": 8, "name": "@NatsuiroMatsuri 夏色祭", "liveUrl": "@NatsuiroMatsuri/live" },
+    { "number": 9, "name": "@akaihaato 赤井心", "liveUrl": "@akaihaato/live" },
+    { "number": 10, "name": "@NakiriAyame 百鬼綾目", "liveUrl": "@NakiriAyame/live" },
+    { "number": 11, "name": "@YuzukiChoco 癒月巧可", "liveUrl": "@YuzukiChoco/live" },
+    { "number": 12, "name": "@OozoraSubaru 大空昴", "liveUrl": "@OozoraSubaru/live" },
+    { "number": 13, "name": "@OokamiMio 大神澪", "liveUrl": "@OokamiMio/live" },
+    { "number": 14, "name": "@NekomataOkayu 貓又小粥", "liveUrl": "@NekomataOkayu/live" },
+    { "number": 15, "name": "@InugamiKorone 戌神沁音", "liveUrl": "@InugamiKorone/live" },
+    { "number": 16, "name": "@UsadaPekora 兔田佩克拉", "liveUrl": "@UsadaPekora/live" },
+    { "number": 17, "name": "@ShiranuiFlare 不知火芙蕾雅", "liveUrl": "@ShiranuiFlare/live" },
+    { "number": 18, "name": "@ShiroganeNoel 白銀諾艾爾", "liveUrl": "@ShiroganeNoel/live" },
+    { "number": 19, "name": "@HoushouMarine 寶鐘瑪琳", "liveUrl": "@HoushouMarine/live" },
+    { "number": 20, "name": "@TsunomakiWatame 角卷綿芽", "liveUrl": "@TsunomakiWatame/live" },
+    { "number": 21, "name": "@TokoyamiTowa 常闇東瓦", "liveUrl": "@TokoyamiTowa/live" },
+    { "number": 22, "name": "@HimemoriLuna 姬森瑠娜", "liveUrl": "@HimemoriLuna/live" },
+    { "number": 23, "name": "@YukihanaLamy 雪花拉米", "liveUrl": "@YukihanaLamy/live" },
+    { "number": 24, "name": "@MomosuzuNene 百鈴奈奈", "liveUrl": "@MomosuzuNene/live" },
+    { "number": 25, "name": "@ShishiroBotan 獅白牡丹", "liveUrl": "@ShishiroBotan/live" },
+    { "number": 26, "name": "@OmaruPolka 尾丸波爾卡", "liveUrl": "@OmaruPolka/live" },
+    { "number": 27, "name": "@LaDarknesss 拉普拉斯·達克尼斯", "liveUrl": "@LaDarknesss/live" },
+    { "number": 28, "name": "@TakaneLui 鷹嶺琉依", "liveUrl": "@TakaneLui/live" },
+    { "number": 29, "name": "@HakuiKoyori 博衣可依", "liveUrl": "@HakuiKoyori/live" },
+    { "number": 30, "name": "@KazamaIroha 風真伊呂波", "liveUrl": "@KazamaIroha/live" },
+    { "number": 31, "name": "@OtonoseKanade 音乃瀨奏", "liveUrl": "@OtonoseKanade/live" },
+    { "number": 32, "name": "@IchijouRirika 一條莉莉卡", "liveUrl": "@IchijouRirika/live" },
+    { "number": 33, "name": "@JuufuuteiRaden 儒烏風亭雷電", "liveUrl": "@JuufuuteiRaden/live" },
+    { "number": 34, "name": "@TodorokiHajime 轟一", "liveUrl": "@TodorokiHajime/live" },
+    { "number": 35, "name": "@IsakiRiona 伊咲莉音", "liveUrl": "@IsakiRiona/live" },
+    { "number": 36, "name": "@KoganeiNiko 古賀音仁子", "liveUrl": "@KoganeiNiko/live" },
+    { "number": 37, "name": "@MizumiyaSu 水宮朱", "liveUrl": "@MizumiyaSu/live" },
+    { "number": 38, "name": "@RindoChihaya 林檎千隼", "liveUrl": "@RindoChihaya/live" },
+    { "number": 39, "name": "@KikiraraVivi 菊良々緋々", "liveUrl": "@KikiraraVivi/live" },
+    { "number": 40, "name": "@AyundaRisu 阿尤達·里蘇", "liveUrl": "@AyundaRisu/live" },
+    { "number": 41, "name": "@MoonaHoshinova 穆娜·霍緒諾娃", "liveUrl": "@MoonaHoshinova/live" },
+    { "number": 42, "name": "@airaniiofi 阿伊拉妮·依歐菲", "liveUrl": "@airaniiofi/live" },
+    { "number": 43, "name": "@KureijiOllie 克雷依姬·歐莉", "liveUrl": "@KureijiOllie/live" },
+    { "number": 44, "name": "@AnyaMelfissa 安亞·梅菲莎", "liveUrl": "@AnyaMelfissa/live" },
+    { "number": 45, "name": "@PavoliaReine 帕沃莉亞·蕾內", "liveUrl": "@PavoliaReine/live" },
+    { "number": 46, "name": "@VestiaZeta 維斯提亞·澤塔", "liveUrl": "@VestiaZeta/live" },
+    { "number": 47, "name": "@KaelaKovalskia 卡埃拉·科瓦爾斯基亞", "liveUrl": "@KaelaKovalskia/live" },
+    { "number": 48, "name": "@KoboKanaeru 可波·卡娜埃露", "liveUrl": "@KoboKanaeru/live" },
+    { "number": 49, "name": "@MoriCalliope 森美聲", "liveUrl": "@MoriCalliope/live" },
+    { "number": 50, "name": "@TakanashiKiara 小鳥遊琪亞拉", "liveUrl": "@TakanashiKiara/live" },
+    { "number": 51, "name": "@NinomaeInanis 一伊那爾栖", "liveUrl": "@NinomaeInanis/live" },
+    { "number": 52, "name": "@IRyS 埃莉絲", "liveUrl": "@IRyS/live" },
+    { "number": 53, "name": "@HakosBaelz 哈珂斯·貝爾絲", "liveUrl": "@HakosBaelz/live" },
+    { "number": 54, "name": "@OuroKronii 奧羅·克洛尼", "liveUrl": "@OuroKronii/live" },
+    { "number": 55, "name": "@ShioriNovella 詩織·諾薇拉", "liveUrl": "@ShioriNovella/live" },
+    { "number": 56, "name": "@KosekiBijou 古石碧珠", "liveUrl": "@KosekiBijou/live" },
+    { "number": 57, "name": "@NerissaRavencroft 納瑞莎·雷文克羅夫特", "liveUrl": "@NerissaRavencroft/live" },
+    { "number": 58, "name": "@FUWAMOCO 軟軟&茸茸", "liveUrl": "@FUWAMOCO/live" },
+    { "number": 59, "name": "@ElizabethRoseBloodflame 伊麗莎白·露絲·布拉德弗雷姆", "liveUrl": "@ElizabethRoseBloodflame/live" },
+    { "number": 60, "name": "@GigiMurin 琪琪·沐林", "liveUrl": "@GigiMurin/live" },
+    { "number": 61, "name": "@CeciliaImmergreen 塞西莉亞·伊默格林", "liveUrl": "@CeciliaImmergreen/live" },
+    { "number": 62, "name": "@RaoraPanthera 拉歐拉·潘特拉", "liveUrl": "@RaoraPanthera/live" }
 ]
