@@ -27,26 +27,26 @@
   {"number":44,"name":"@TokoyamiTowa 常闇永遠","videoId":"@TokoyamiTowa/live"},
   {"number":45,"name":"@HimemoriLuna 姬森璐娜","videoId":"@HimemoriLuna/live"},
 
-  {"number":50,"name":"@YukihanaLamy 雪花拉米","videoId":"@YukihanaLamy/live"},
+  {"number":50,"name":"@YukihanaLamy 雪花菈米","videoId":"@YukihanaLamy/live"},
   {"number":51,"name":"@MomosuzuNene 桃鈴音音","videoId":"@MomosuzuNene/live"},
   {"number":52,"name":"@ShishiroBotan 獅白牡丹","videoId":"@ShishiroBotan/live"},
   {"number":53,"name":"@OmaruPolka 尾丸波爾卡","videoId":"@OmaruPolka/live"},
 
-  {"number":60,"name":"@LaDarknesss 拉普拉斯·達克尼斯","videoId":"@LaDarknesss/live"},
+  {"number":60,"name":"@LaDarknesss 拉普拉斯·達克妮絲","videoId":"@LaDarknesss/live"},
   {"number":61,"name":"@TakaneLui 鷹嶺琉依","videoId":"@TakaneLui/live"},
-  {"number":62,"name":"@HakuiKoyori 博衣可依","videoId":"@HakuiKoyori/live"},
+  {"number":62,"name":"@HakuiKoyori 博衣小夜璃","videoId":"@HakuiKoyori/live"},
   {"number":63,"name":"@KazamaIroha 風真伊呂波","videoId":"@KazamaIroha/live"},
 
   {"number":70,"name":"@OtonoseKanade 音乃瀨奏","videoId":"@OtonoseKanade/live"},
-  {"number":71,"name":"@IchijouRirika 一條莉莉卡","videoId":"@IchijouRirika/live"},
-  {"number":72,"name":"@JuufuuteiRaden 儒烏風亭雷電","videoId":"@JuufuuteiRaden/live"},
+  {"number":71,"name":"@IchijouRirika 一條莉莉華","videoId":"@IchijouRirika/live"},
+  {"number":72,"name":"@JuufuuteiRaden 儒烏風亭螺鈿","videoId":"@JuufuuteiRaden/live"},
   {"number":73,"name":"@TodorokiHajime 轟一","videoId":"@TodorokiHajime/live"},
 
-  {"number":80,"name":"@IsakiRiona 伊咲莉音","videoId":"@IsakiRiona/live"},
-  {"number":81,"name":"@KoganeiNiko 古賀音仁子","videoId":"@KoganeiNiko/live"},
-  {"number":82,"name":"@MizumiyaSu 水宮朱","videoId":"@MizumiyaSu/live"},
-  {"number":83,"name":"@RindoChihaya 林檎千隼","videoId":"@RindoChihaya/live"},
-  {"number":84,"name":"@KikiraraVivi 菊良々緋々","videoId":"@KikiraraVivi/live"},
+  {"number":80,"name":"@IsakiRiona 響咲莉歐娜","videoId":"@IsakiRiona/live"},
+  {"number":81,"name":"@KoganeiNiko 虎金妃笑虎","videoId":"@KoganeiNiko/live"},
+  {"number":82,"name":"@MizumiyaSu 水宮枢","videoId":"@MizumiyaSu/live"},
+  {"number":83,"name":"@RindoChihaya 輪堂千速","videoId":"@RindoChihaya/live"},
+  {"number":84,"name":"@KikiraraVivi 綺綺羅羅薇薇","videoId":"@KikiraraVivi/live"},
 
   {"number":201,"name":"@AyundaRisu Risu","videoId":"@AyundaRisu/live"},
   {"number":202,"name":"@MoonaHoshinova Moona","videoId":"@MoonaHoshinova/live"},
@@ -64,12 +64,17 @@
   {"number":112,"name":"@TakanashiKiara Takanashi Kiara","videoId":"@TakanashiKiara/live"},
   {"number":113,"name":"@NinomaeInanis Ninomae Ina'nis","videoId":"@NinomaeInanis/live"},
 
-  {"number":122,"name":"@OuroKronii Ouro Kronii","videoId":"@OuroKronii/live"},
-  {"number":124,"name":"@HakosBaelz Hakos Baelz","videoId":"@HakosBaelz/live"},
+  {"number":122,"name":"@OuroKronii Kronii","videoId":"@OuroKronii/live"},
+  {"number":124,"name":"@HakosBaelz Bae","videoId":"@HakosBaelz/live"},
   {"number":125,"name":"@IRyS IRyS","videoId":"@IRyS/live"},
 
-  {"number":131,"name":"@ShioriNovella Shiori Novella","videoId":"@ShioriNovella/live"},
-  {"number":132,"name":"@KosekiBijou Koseki Bijou","videoId":"@KosekiBijou/live"},
-  {"number":133,"name":"@NerissaRavencroft Nerissa Ravencroft","videoId":"@NerissaRavencroft/live"},
-  {"number":134,"name":"@FUWAMOCO FUWAMOCO","videoId":"@FUWAMOCO/live"}
+  {"number":131,"name":"@ShioriNovella Shiori","videoId":"@ShioriNovella/live"},
+  {"number":132,"name":"@KosekiBijou Bijou","videoId":"@KosekiBijou/live"},
+  {"number":133,"name":"@NerissaRavencroft Nerissa","videoId":"@NerissaRavencroft/live"},
+  {"number":134,"name":"@FUWAMOCO FUWAMOCO","videoId":"@FUWAMOCO/live"},
+
+  {"number":141,"name":"@ElizabethRoseBloodflame Elizabeth Rose Bloodflame","videoId":"@ElizabethRoseBloodflame/live"},
+  {"number":142,"name":"@GigiMurin GG","videoId":"@GigiMurin/live"},
+  {"number":143,"name":"@CeciliaImmergreen CC Immergreen","videoId":"@CeciliaImmergreen/live"},
+  {"number":144,"name":"@RaoraPanthera Raora","videoId":"@RaoraPanthera/live"}
 ]
